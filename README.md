@@ -1,4 +1,4 @@
-# backend-qa-interview
+# QA-interview
 
 
 ## Weather 'application' overview

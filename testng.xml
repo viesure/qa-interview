@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="seleniumtest" allow-return-values="true" parallel="none">
+
+    <!-- Test Case 1. Seller MAKER Create Import LC with dependencies -->
+
+    <test name="Test01" enabled="true">
+
+        <classes>
+
+            <class name="com.seleniumtest.testrunners.RunAll"/>
+
+        </classes>
+
+    </test>
+
+</suite>
